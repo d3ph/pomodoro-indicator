@@ -1,0 +1,66 @@
+# English translations for pomodoro-indicator package.
+# Copyright (C) 2011 malev.com.ar
+# Marcos Vanetta <marcosvanetta@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-09-27 17:20-0300\n"
+"PO-Revision-Date: 2011-09-27 17:20-0300\n"
+"Last-Translator: Marcos Vanetta <marcosvanetta@gmail.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../visual.py:49 ../visual.py:106
+msgid "Waiting"
+msgstr "Esperando"
+
+#: ../visual.py:50
+msgid "Working"
+msgstr "Trabajando"
+
+#: ../visual.py:51
+msgid "Resting"
+msgstr "Descansando"
+
+#: ../visual.py:52
+msgid "Paused"
+msgstr "Pausado"
+
+#: ../visual.py:67
+msgid "Pomodoro"
+msgstr "Pomodoro"
+
+#: ../visual.py:75
+msgid "You should start working."
+msgstr "Usted debería comenzar a trabajar."
+
+#: ../visual.py:77
+msgid "You can take a break now."
+msgstr "Usted debería descansar ahora."
+
+#: ../visual.py:110
+msgid "Start"
+msgstr "Iniciar"
+
+#: ../visual.py:111
+msgid "Pause"
+msgstr "Pausar"
+
+#: ../visual.py:112
+msgid "Resume"
+msgstr "Continuar"
+
+#: ../visual.py:113
+msgid "Stop"
+msgstr "Parar"
+
+#: ../visual.py:114
+msgid "Quit"
+msgstr "Salir"
+

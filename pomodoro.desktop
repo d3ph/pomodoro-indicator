@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=0.0.4a
+Encoding=UTF-8
+Type=Application
+Name=Pomodoro-indicator
+GenericName=Pomodoro
+Comment=Simple app indicator to use the pomodoro technique
+Comment[es]=Indicador para usar la técnica pomodoro
+Icon=@ INSTALLED_ICON @
+Exec=pomodoro-indicator
+Terminal=false
+StartupNotify=false
+Categories=Utility;Application;
